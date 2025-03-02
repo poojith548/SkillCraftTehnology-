@@ -1,2 +1,2 @@
 # SkillCraftTehnology-
-This repositry contains all the files related to internship 
+This repository contains all the files related to internship 
